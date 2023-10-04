@@ -1,4 +1,4 @@
-# We are RARE (22-23)
+# We are RARE (23-24)
 
 Overview of students and teachers of NxT Media Technology Rare level 23-24.
 
