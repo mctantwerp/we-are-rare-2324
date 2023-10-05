@@ -12,7 +12,12 @@ See: [Contributing](./CONTRIBUTING.md)
 
 * [Sam Serrien](./people/sam_serrien.md)
 
+
 ## Students
 
 * [Gilles Serrien](./people/gilles_serrien.md)
 * [Tobias Oostvogels](./people/tobias_oostvogels.md)
+* [Luna Vandyck](./people/luna_vandyck.md)
+* [Lena Delabie](./people/lena_delabie.md)
+* [Samantha Van Gelder](./people/samantha_VanGelder.md)
+* [Axelle Seghers](./people/Axelle_Seghers.md)
