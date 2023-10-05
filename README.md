@@ -15,3 +15,4 @@ See: [Contributing](./CONTRIBUTING.md)
 ## Students
 
 * [Gilles Serrien](./people/gilles_serrien.md)
+* [Tobias Oostvogels](./people/tobias_oostvogels.md)
