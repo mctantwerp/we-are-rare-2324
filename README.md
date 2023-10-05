@@ -24,3 +24,4 @@ See: [Contributing](./CONTRIBUTING.md)
 * [Samantha Van Gelder](./people/samantha_VanGelder.md)
 
 * [Axelle Seghers](./people/Axelle_Seghers.md)
+* [Mauro De Cleen](./people/Mauro_De_Cleen.md.)
