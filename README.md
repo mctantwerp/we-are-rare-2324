@@ -22,5 +22,5 @@ See: [Contributing](./CONTRIBUTING.md)
 * [Lena Delabie](./people/lena_delabie.md)
 * [Tobias Oostvogels](./people/tobias_oostvogels.md)
 * [Samantha Van Gelder](./people/samantha_VanGelder.md)
-
+* [Luiz Van Grimbergen](./people/Luiz_VanGrimbergen.md)
 * [Axelle Seghers](./people/Axelle_Seghers.md)
