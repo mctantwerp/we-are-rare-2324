@@ -13,6 +13,6 @@ See: [Contributing](./CONTRIBUTING.md)
 * [Sam Serrien](./people/sam_serrien.md)
 
 ## Students
-* [Luna VAndyck](./people/luna_vandyck.md)
+* [Luna Vandyck](./people/luna_vandyck.md)
 
 * [Tobias Oostvogels](./people/tobias_oostvogels.md)
