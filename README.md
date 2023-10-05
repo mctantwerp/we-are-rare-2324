@@ -22,4 +22,6 @@ See: [Contributing](./CONTRIBUTING.md)
 * [Samantha Van Gelder](./people/samantha_VanGelder.md)
 * [Luiz Van Grimbergen](./people/Luiz_VanGrimbergen.md)
 * [Axelle Seghers](./people/Axelle_Seghers.md)
+* [Alexandre Nzinga](./people/Alexandre_Nzinga.md)
 * [Hajar Aarab](./people/hajar_aarab.md)
+
