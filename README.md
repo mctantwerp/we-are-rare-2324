@@ -14,6 +14,9 @@ See: [Contributing](./CONTRIBUTING.md)
 
 
 ## Students
+
 * [Luna Vandyck](./people/luna_vandyck.md)
 * [Lena Delabie](./people/lena_delabie.md)
 * [Tobias Oostvogels](./people/tobias_oostvogels.md)
+* [Samantha Van Gelder](./people/samantha_VanGelder.md)
+
