@@ -12,7 +12,8 @@ See: [Contributing](./CONTRIBUTING.md)
 
 * [Sam Serrien](./people/sam_serrien.md)
 
+
 ## Students
 * [Luna Vandyck](./people/luna_vandyck.md)
-
-* [Tobias Oostvogels](./people/tobias-oostvogels.md)
+* [Lena Delabie](./people/lena_delabie.md)
+* [Tobias Oostvogels](./people/tobias_oostvogels.md)
