@@ -1,11 +1,7 @@
 # Luiz Van Grimbergen
 
 
-* Hobbies:  scouts
-            bokken
-            basic fit
-            
-            
+* hobbies scouts, fitness
 
 
->They don't know me son
+> they don't know me son
