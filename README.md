@@ -25,4 +25,5 @@ See: [Contributing](./CONTRIBUTING.md)
 * [Mauro De Cleen](./people/Mauro_De_Cleen.md.)
 * [Hajar Aarab](./people/hajar_aarab.md)
 * [Alexandre Nzinga](./people/Alexandre_Nzinga.md)
+* [Luiz Van Grimbergen](./people/Luiz_VanGrimbergen.md)
 
