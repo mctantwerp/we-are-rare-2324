@@ -14,4 +14,4 @@ See: [Contributing](./CONTRIBUTING.md)
 
 ## Students
 
-* [Tobias Oostvogels](./people/tobias_oostvogels.md)
+* [Tobias Oostvogels](./people/tobias-oostvogels.md)
