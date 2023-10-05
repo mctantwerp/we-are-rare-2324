@@ -11,6 +11,8 @@ See: [Contributing](./CONTRIBUTING.md)
 ## Teachers
 
 * [Sam Serrien](./people/sam_serrien.md)
-* [Lena Delabie](./people/lena_delabie.md)
+
 
 ## Students
+
+* [Lena Delabie](./people/lena_delabie.md)
