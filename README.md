@@ -15,4 +15,7 @@ See: [Contributing](./CONTRIBUTING.md)
 
 ## Students
 
+
 * [Lena Delabie](./people/lena_delabie.md)
+* [Tobias Oostvogels](./people/tobias_oostvogels.md)
+
