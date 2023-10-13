@@ -12,6 +12,18 @@ See: [Contributing](./CONTRIBUTING.md)
 
 * [Sam Serrien](./people/sam_serrien.md)
 
+
 ## Students
 
-* [Tobias Oostvogels](./people/tobias-oostvogels.md)
+* [Gilles Serrien](./people/gilles_serrien.md)
+* [Tobias Oostvogels](./people/tobias_oostvogels.md)
+* [Luna Vandyck](./people/luna_vandyck.md)
+* [Lena Delabie](./people/lena_delabie.md)
+* [Samantha Van Gelder](./people/samantha_VanGelder.md)
+* [Luiz Van Grimbergen](./people/Luiz_VanGrimbergen.md)
+* [Axelle Seghers](./people/Axelle_Seghers.md)
+* [Mauro De Cleen](./people/Mauro_DeCleen.md)
+* [Hajar Aarab](./people/hajar_aarab.md)
+* [Alexandre Nzinga](./people/Alexandre_Nzinga.md)
+* [Luiz Van Grimbergen](./people/Luiz_VanGrimbergen.md)
+
