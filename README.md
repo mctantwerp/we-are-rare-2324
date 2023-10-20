@@ -26,4 +26,5 @@ See: [Contributing](./CONTRIBUTING.md)
 * [Hajar Aarab](./people/hajar_aarab.md)
 * [Alexandre Nzinga](./people/Alexandre_Nzinga.md)
 * [Luiz Van Grimbergen](./people/Luiz_VanGrimbergen.md)
+* [Gabriel Zapata](./people/Gabriel_Zapata.md)
 
