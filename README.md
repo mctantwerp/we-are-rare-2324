@@ -27,4 +27,6 @@ See: [Contributing](./CONTRIBUTING.md)
 * [Alexandre Nzinga](./people/Alexandre_Nzinga.md)
 * [Luiz Van Grimbergen](./people/Luiz_VanGrimbergen.md)
 * [Gabriel Zapata](./people/Gabriel_Zapata.md)
+* [Marc Anthony Surmont](./people/MarcAnthony_Surmont.md)
+
 
